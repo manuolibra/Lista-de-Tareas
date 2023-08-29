@@ -1,5 +1,5 @@
-# Webpack Inicial
-Este es el proyecto inicial para crear aplicaciones usando WebPack.
+# Lista de Tareas
+Lista de tareas hecha con JavaScript y WebPack.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node.
